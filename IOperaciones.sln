@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOperaciones", "IOperaciones\IOperaciones.csproj", "{A9C5C91A-8647-46ED-8CF5-DBB226DD05B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI", "CLI\CLI.csproj", "{4361CCD9-CEC8-448E-9A78-464231F2134E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{77A65C7D-0B66-4B94-A54C-1C508690376E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4361CCD9-CEC8-448E-9A78-464231F2134E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4361CCD9-CEC8-448E-9A78-464231F2134E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4361CCD9-CEC8-448E-9A78-464231F2134E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4361CCD9-CEC8-448E-9A78-464231F2134E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A65C7D-0B66-4B94-A54C-1C508690376E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A65C7D-0B66-4B94-A54C-1C508690376E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A65C7D-0B66-4B94-A54C-1C508690376E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A65C7D-0B66-4B94-A54C-1C508690376E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C5C91A-8647-46ED-8CF5-DBB226DD05B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C5C91A-8647-46ED-8CF5-DBB226DD05B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C5C91A-8647-46ED-8CF5-DBB226DD05B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C5C91A-8647-46ED-8CF5-DBB226DD05B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

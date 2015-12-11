@@ -1,0 +1,5 @@
+/home/luis/Público/IOperaciones/IOperaciones/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/luis/Público/IOperaciones/IOperaciones/bin/Debug/IOperaciones.dll.mdb
+/home/luis/Público/IOperaciones/IOperaciones/bin/Debug/IOperaciones.dll
+/home/luis/Público/IOperaciones/IOperaciones/obj/Debug/IOperaciones.dll
+/home/luis/Público/IOperaciones/IOperaciones/obj/Debug/IOperaciones.dll.mdb

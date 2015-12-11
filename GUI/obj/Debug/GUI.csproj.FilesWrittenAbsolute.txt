@@ -1,0 +1,8 @@
+/home/luis/Público/IOperaciones/GUI/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/luis/Público/IOperaciones/GUI/obj/Debug/GUI.gtk-gui.gui.stetic
+/home/luis/Público/IOperaciones/GUI/bin/Debug/GUI.exe.mdb
+/home/luis/Público/IOperaciones/GUI/bin/Debug/GUI.exe
+/home/luis/Público/IOperaciones/GUI/obj/Debug/GUI.exe
+/home/luis/Público/IOperaciones/GUI/obj/Debug/GUI.exe.mdb
+/home/luis/Público/IOperaciones/GUI/bin/Debug/IOperaciones.dll
+/home/luis/Público/IOperaciones/GUI/bin/Debug/IOperaciones.dll.mdb
